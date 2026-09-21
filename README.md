@@ -82,25 +82,25 @@ This section has screenshots and photos of my projects. Some photos show my dail
 
 ### PC Games
 
-- [Pantheon: Rise of the Fallen](Showcase_Work/2025%20-%20Pantheon)
-- [Dragons of Crypto](Showcase_Work/2022%20-%20Dragons%20Of%20Krypto)
+- [Pantheon: Rise of the Fallen](Showcase/2025%20-%20Pantheon)
+- [Dragons of Crypto](Showcase/2022%20-%20Dragons%20Of%20Krypto)
 
 ### Mobile Games
 
-- [Block City Wars 2](Showcase_Work/2023%20-%20Block%20City%20Wars%202)
-- [Combat Quest](Showcase_Work/2020%20-%20Combat%20Quest)
+- [Block City Wars 2](Showcase/2023%20-%20Block%20City%20Wars%202)
+- [Combat Quest](Showcase/2020%20-%20Combat%20Quest)
 
 ### Desktop Applications
 
-- [SuperSCADA](Showcase_Work/2019%20-%20SuperScada)
-- [KStudio](Showcase_Work/2016%20-%20KStudio)
+- [SuperSCADA](Showcase/2019%20-%20SuperScada)
+- [KStudio](Showcase/2016%20-%20KStudio)
 
 ### Web Applications
 
-- [Cedar Clerk](Showcase_Work/2026%20-%20Cedar%20Clerk) (personal project)
-- [New Promotion](Showcase_Work/2019%20-%20NewPromotion)
-- [KResource](Showcase_Work/2018%20-%20KResource)
+- [Cedar Clerk](Showcase/2026%20-%20Cedar%20Clerk) (personal project)
+- [New Promotion](Showcase/2019%20-%20NewPromotion)
+- [KResource](Showcase/2018%20-%20KResource)
 
 ### Firmware
 
-- [USPD](Showcase_Work/2015%20-%20USPD)
+- [USPD](Showcase/2015%20-%20USPD)
