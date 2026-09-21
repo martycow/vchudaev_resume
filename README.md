@@ -22,7 +22,7 @@
 
 | Field                          | Value                                                      |
 |--------------------------------|-----------------------------------------------------------|
-| E-mail                         | schudaev@gmail.com                                        |
+| E-mail                         | contact@vchudaev.dev                                        |
 | LinkedIn                       | https://www.linkedin.com/in/vchudaev                      |
 | Location                       | Portland, OR                                              |
 
