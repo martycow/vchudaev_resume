@@ -12,7 +12,7 @@ Unity gameplay engineer with **11 years of software development experience**. Bu
 
 **TECHNICAL SKILLS**
 
-**Core**  C\#, Unity, SOLID, ECS
+**Core**  C#, Unity, SOLID, ECS
 
 **Gameplay**  Core & meta gameplay, abilities, UI, behavior-tree AI, NPCs, multiplayer, network sync, tools
 
@@ -22,11 +22,11 @@ Unity gameplay engineer with **11 years of software development experience**. Bu
 
 **Data**  SQL, database design, stored procedures, client-server architecture, player-data migration
 
-**UI**  UGUI, NGUI, complex, adaptive and  responsive interface design & implementation pixel perfect
+**UI**  UGUI, NGUI, complex, adaptive and responsive interface design & implementation pixel perfect
 
 **EXPERIENCE**
 
-**Visionary Realms**	Sep 2025– Sep 2026
+**Visionary Realms**    September 2025 – September 2026
 
 Unity Gameplay Engineer  |  Remote
 
@@ -38,7 +38,7 @@ Unity Gameplay Engineer  |  Remote
 * Built new abilities, including graph-node logic and supporting runtime functionality.  
 * Fully refactored abilities loadout panel: added customization and increased usability.
 
-**Cubic Games**	June 2023– June 2024
+**Cubic Games**    June 2023 – June 2024
 
 Unity Gameplay Engineer  |  Remote
 
@@ -51,7 +51,7 @@ Unity Gameplay Engineer  |  Remote
 
 **EXPERIENCE / CONTINUED**
 
-**Ciprosoft**	October 2022– June 2023
+**Ciprosoft**   October 2022 – June 2023
 
 Lead Unity Gameplay Engineer  |  Remote
 
@@ -61,7 +61,7 @@ Lead Unity Gameplay Engineer  |  Remote
 * Owned prototype architecture and technical implementation, adapting to frequent design pivots.  
 * Implemented combat, abilities, character customization, inventory, UI, VFX and SFX systems.
 
-**Chillbase**	June 2020– October 2022
+**Chillbase**   June 2020 – October 2022
 
 Unity Gameplay Engineer
 
@@ -74,7 +74,7 @@ Unity Gameplay Engineer
 * Delivered meta-gameplay systems, including cutscenes, a global map and tutorials.  
 * Owned CI/CD and shipped iOS and Android releases.
 
-**Moscow Factory of Thermal Automatics**	May 2015 – June 2020
+**Moscow Factory of Thermal Automatics**    May 2015 – June 2020
 
 Software and Hardware Engineer
 
