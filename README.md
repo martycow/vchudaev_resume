@@ -2,8 +2,8 @@
 
 ## Full Resume
 
-* [PDF](2026 Senior Unity Gameplay Engineer Resume.pdf)
-* [DOCX](2026 Senior Unity Gameplay Engineer Resume.docx)
+* [PDF](/blob/main/2026 Senior Unity Gameplay Engineer Resume.pdf)
+* [DOCX](/blob/main/2026 Senior Unity Gameplay Engineer Resume.docx)
 
 ## Brief
 
