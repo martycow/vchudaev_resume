@@ -2,9 +2,9 @@
 
 ## Full Resume
 
-- [PDF](2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.pdf)
-- [DOCX](2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.docx)
-- [Markdown](2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.md)
+- [PDR](Resume_2026_Senior_Unity_Gameplay_Engineer.pdf)
+- [DOCX](Resume_2026_Senior_Unity_Gameplay_Engineer.docx)
+- [Markdown](Resume_2026_Senior_Unity_Gameplay_Engineer.md)
 
 ## Brief
 
