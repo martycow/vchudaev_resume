@@ -1,9 +1,9 @@
-# Viacheslav "Slava" Chudaev - Unity Gameplay Engineer
+# Viacheslav Chudaev - Senior Software Engineer and Game Developer 
 
 ## Full Resume
 
-* [PDF](https://github.com/martycow/schudaev_resume/blob/main/Unity%20Engineer%20Resume.pdf)
-* [DOCX](https://github.com/martycow/schudaev_resume/raw/refs/heads/main/Unity%20Engineer%20Resume.docx)
+* [PDF](2026 Senior Unity Gameplay Engineer Resume.pdf)
+* [DOCX](2026 Senior Unity Gameplay Engineer Resume.docx)
 
 ## Brief
 
