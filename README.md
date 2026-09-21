@@ -5,6 +5,18 @@
 * [PDF](https://github.com/martycow/vchudaev_resume/blob/main/2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.pdf)
 * [DOCX](https://github.com/martycow/vchudaev_resume/blob/main/2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.docx)
 
+## Projects and Developing Process Showcase
+
+* [Pantheon: Rise of the Fallen](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2025%20-%20Pantheon)
+* [Block City Wars 2](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2023%20-%20Block%20City%20Wars%202)
+* [Dragon Game](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2022%20-%20Dragons%20Of%20Krypto)
+* [Combat Quest](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2020%20-%20Combat%20Quest)
+* [SuperSCADA](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2019%20-%20SuperScada)
+* [New Promotion](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2019%20-%20NewPromotion)
+* [KResource](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2018%20-%20KResouce)
+
+[Hardware] 
+
 ## Brief
 
 ### Primary Info
