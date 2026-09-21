@@ -83,7 +83,7 @@ This section has screenshots and photos of my projects. Some photos show my dail
 ### PC Games
 
 - [Pantheon: Rise of the Fallen](Showcase/2025%20-%20Pantheon)
-- [Dragons of Crypto](Showcase/2022%20-%20Dragons%20Of%20Krypto)
+- [Dragon Game](Showcase/2022%20-%20Dragons%20Of%20Krypto)
 
 ### Mobile Games
 

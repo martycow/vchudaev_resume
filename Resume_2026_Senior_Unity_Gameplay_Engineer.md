@@ -55,15 +55,15 @@ Unity Gameplay Engineer  |  Remote
 
 Lead Unity Gameplay Engineer  |  Remote
 
-**Dragons of Crypto**  |  2D RPG battler prototype
+**Dragon Game**  |  2D RPG battler prototype
 
 * **Led a four-developer team**, owning planning, estimates, delivery and technical interviews.  
 * Owned prototype architecture and technical implementation, adapting to frequent design pivots.  
 * Implemented combat, abilities, character customization, inventory, UI, VFX and SFX systems.
 
-**Chillbase**   June 2020 – October 2022
+**ChillBase**   June 2020 – October 2022
 
-Unity Gameplay Engineer
+Unity Gameplay Engineer | In-Site
 
 **Combat Quest**  |  3D Mobile action RPG
 
@@ -76,7 +76,7 @@ Unity Gameplay Engineer
 
 **Moscow Factory of Thermal Automatics**    May 2015 – June 2020
 
-Software and Hardware Engineer
+Software and Hardware Engineer | In-Site
 
 **SuperSCADA (2018–2020)**  |  Unity industrial application for PC and mobile
 
@@ -86,7 +86,7 @@ Software and Hardware Engineer
 * Responsible for graph and code editors for FBD, LD and ST languages.  
 * Tested and deployed across multiple target environments.
 
-**Earlier work (2015–2018):** 
+**Earlier work (2015–2018):**
 
 * Built platform for property management companies and tenants using Angular,  
 * Implemented new editor features to IDE applications using WPF.  
@@ -94,8 +94,8 @@ Software and Hardware Engineer
 
 **EDUCATION**
 
-**RTU MIREA**  |  Bachelor of Science in Information Technology	2012–2016
+***RTU MIREA***  |  Bachelor of Science in Information Technology   2012–2016
 
 **LANGUAGES**
 
-**English** — Fluent  ·  **Russian** — Native
+***English*** — Fluent  ·  ***Russian*** — Native
