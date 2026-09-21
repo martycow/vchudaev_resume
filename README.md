@@ -2,8 +2,8 @@
 
 ## Full Resume
 
-* [PDF](/blob/main/2026 Senior Unity Gameplay Engineer Resume.pdf)
-* [DOCX](/blob/main/2026 Senior Unity Gameplay Engineer Resume.docx)
+* [PDF](https://github.com/martycow/vchudaev_resume/blob/main/2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.pdf)
+* [DOCX](https://github.com/martycow/vchudaev_resume/blob/main/2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.docx)
 
 ## Brief
 
