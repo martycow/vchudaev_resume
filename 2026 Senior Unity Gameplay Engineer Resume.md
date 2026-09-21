@@ -2,7 +2,7 @@
 
 Senior Unity Gameplay Engineer
 
-Portland, OR  ·  [schudaev@gmail.com](mailto:schudaev@gmail.com)  ·  [linkedin.com/in/vchudaev](https://www.linkedin.com/in/vchudaev/)
+Portland, OR  ·  [contact@vchudaev.dev](mailto:contact@vchudaev.dev)  ·  [linkedin.com/in/vchudaev](https://www.linkedin.com/in/vchudaev/)
 
 Authorized to work in the U.S. without visa sponsorship.
 
