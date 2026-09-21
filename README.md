@@ -94,6 +94,7 @@ Here you can see screenshots and photos of all the projects I've ever worked on.
 
 ### Web Applications
 
+* [Cedar Clerk](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2026%20-%20Cedar%20Clerk)
 * [New Promotion](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2019%20-%20NewPromotion)
 * [KResource](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2018%20-%20KResouce)
 
