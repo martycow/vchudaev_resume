@@ -1,103 +1,106 @@
-# Viacheslav Chudaev - Senior Software Engineer and Game Developer 
+# Viacheslav Chudaev - Senior Unity Gameplay Engineer
 
 ## Full Resume
 
-* [PDF](https://github.com/martycow/vchudaev_resume/blob/main/2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.pdf)
-* [DOCX](https://github.com/martycow/vchudaev_resume/blob/main/2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.docx)
+- [PDF](2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.pdf)
+- [DOCX](2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.docx)
+- [Markdown](2026%20Senior%20Unity%20Gameplay%20Engineer%20Resume.md)
 
 ## Brief
 
 ### Primary Info
 
-| Field                          | Value                                                     |
-|--------------------------------|-----------------------------------------------------------|
-| First name                     | **Viacheslav**                                            |
-| Short name                     | Slava                                                     |
-| Last name                      | **Chudaev**                                               |
-| Nickname                       | martycow                                                  |
-| Authorized to work in the U.S. | Yes                                                       |
-| Need visa sponsorship          | No                                                        |
+| Field                          | Value          |
+| ------------------------------ | -------------- |
+| First name                     | **Viacheslav** |
+| Short name                     | Slava          |
+| Last name                      | **Chudaev**    |
+| Nickname                       | martycow       |
+| Authorized to work in the U.S. | Yes            |
+| Need visa sponsorship          | No             |
 
 ### Contact Info
 
-| Field                          | Value                                                      |
-|--------------------------------|-----------------------------------------------------------|
-| E-mail                         | contact@vchudaev.dev                                        |
-| LinkedIn                       | https://www.linkedin.com/in/vchudaev                      |
-| Location                       | Portland, OR                                              |
+| Field    | Value                                  |
+| -------- | -------------------------------------- |
+| E-mail   | <contact@vchudaev.dev>                 |
+| LinkedIn | <https://www.linkedin.com/in/vchudaev> |
+| Location | Portland, OR                           |
 
 ### Preferences
 
-| Field                          | Value                                                     |
-|--------------------------------|-----------------------------------------------------------|
-| Job type                       | **Full-time**                                             |
-| Location type                  | Remote, Hybrid, On-Site                                   |
-| Preferable location            | **Remote** or **On-Site in Portland, OR**                 |
-| Relocation                     | Open to relocation within the U.S.                        |
+| Field               | Value                                     |
+| ------------------- | ----------------------------------------- |
+| Job type            | **Full-time**                             |
+| Location type       | Remote, Hybrid, On-site                   |
+| Preferred location  | **Remote** or **On-site in Portland, OR** |
+| Relocation          | Open to relocation within the U.S.        |
 
 ### Skills
 
-| Field                          | Value                                                     |
-|--------------------------------|-----------------------------------------------------------|
-| Languages                      | C#, C++, TypeScript                                       |
-| Game Engines                   | Unity, Unreal Engine (familiar)                           |
-| Gameplay                       | Gameplay systems, character controllers, AI, UI, tooling  |
-| Live ops                       | In-app purchases, offer systems, analytics, A/B testing   |
-| Performance                    | Memory profiling, low-end device optimization, build size |
-| Platforms                      | iOS, Android, PC                                          |
-| Other                          | Angular, Qt (familiar), Modbus/RS-232/RS-485, Git, CI/CD  |
-| Currently learning             | Rust, Swift, DevOps                                       |
+| Field              | Value                                                                     |
+| ------------------ | ------------------------------------------------------------------------- |
+| Core               | C#, Unity, SOLID, ECS                                                     |
+| Other languages    | C++, TypeScript, SQL                                                      |
+| Game engines       | Unity, Unreal Engine                                                      |
+| Gameplay           | Gameplay systems, abilities, behavior-tree AI, multiplayer, network sync  |
+| UI                 | UGUI, NGUI, adaptive and pixel-perfect UI                                 |
+| Live ops           | Unity IAP, offer systems, IronSource, AdMob, AppsFlyer, Firebase          |
+| Performance        | Unity Profiler, Xcode Memory Profiler, low-end device optimization        |
+| Platforms          | iOS, Android, PC                                                          |
+| Other              | Angular, WPF, Qt (familiar), Modbus/RS-232/RS-485, Git, CI/CD             |
+| Currently learning | Rust, Swift, DevOps                                                       |
 
 ### Experience
 
-| Company                                  | Role                              | Type                 | Years     | Project                                       | Note                                                                 |
-|------------------------------------------|---------------------------------- |----------------------|-----------|-----------------------------------------------|----------------------------------------------------------------------|
-| **Visionary Realms**                     | Unity Gameplay Engineer           | (full-time, remote)  | 2025–2026 | *Pantheon: Rise of the Fallen*                | Old school MMORPG, spiritual successor of original *Everquest*       |
-| **Cubic Games**                          | Unity Gameplay Engineer           | (full-time, remote)  | 2023–2024 | *Block City Wars 2*                           | 50M+ installs                                                        |
-| **Ciprosoft**                            | Lead Unity Engineer               | (full-time, remote)  | 2022–2023 | *Unreleased battler RPG prototype*            | Made game prototype from scratch, lead team of four                  |
-| **ChillBase**                            | Unity Gameplay Engineer           | (full-time, on-site) | 2020–2022 | *Combat Quest*                                | 1M+ installs                                                         |
-| **Moscow Factory of Thermal Automatics** | .NET Software & Hardware Engineer | (full-time, on-site) | 2015–2020 | *SuperSCADA*, *KResource*, *USPD*             | Unity-based SCADA, industrial devices, low-level, firmware           |
+| Company                                  | Role                              | Type                 | Years     | Project                          | Note                                                   |
+| ---------------------------------------- | --------------------------------- | -------------------- | --------- | -------------------------------- | ------------------------------------------------------ |
+| **Visionary Realms**                     | Unity Gameplay Engineer           | Full-time, remote    | 2025–2026 | *Pantheon: Rise of the Fallen*   | Old-school MMORPG, spiritual successor to *EverQuest*  |
+| **Cubic Games**                          | Unity Gameplay Engineer           | Full-time, remote    | 2023–2024 | *Block City Wars 2*              | 50M+ installs                                          |
+| **Ciprosoft**                            | Lead Unity Gameplay Engineer      | Full-time, remote    | 2022–2023 | *Dragons of Crypto*              | Built the prototype from scratch, led a team of four   |
+| **ChillBase**                            | Unity Gameplay Engineer           | Full-time, on-site   | 2020–2022 | *Combat Quest*                   | 1M+ installs, tripled monthly revenue                  |
+| **Moscow Factory of Thermal Automatics** | Software and Hardware Engineer    | Full-time, on-site   | 2015–2020 | *SuperSCADA*, *KResource*, *USPD* | Unity-based SCADA, industrial devices, firmware       |
 
 ### Education
 
 Bachelor of Science in Information Technology
 
-RTU MIREA (Russian Technical University - Moscow Institute of Radioengineering, Electronics and Automation)
+RTU MIREA (Russian Technological University - Moscow Institute of Radio Engineering, Electronics and Automation)
 
-2012 - 2016
+2012–2016
 
 ### Languages
 
 | Language | Level  |
-|----------|--------|
+| -------- | ------ |
 | English  | Fluent |
 | Russian  | Native |
 
 ## Showcase
 
-Here you can see screenshots and photos of all the projects I've ever worked on. Some of pictures show my daily work life.
+This section has screenshots and photos of my projects. Some photos show my daily work.
 
 ### PC Games
 
-* [Pantheon: Rise of the Fallen](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2025%20-%20Pantheon)
-* [Dragon Game](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2022%20-%20Dragons%20Of%20Krypto)
+- [Pantheon: Rise of the Fallen](Showcase_Work/2025%20-%20Pantheon)
+- [Dragons of Crypto](Showcase_Work/2022%20-%20Dragons%20Of%20Krypto)
 
 ### Mobile Games
 
-* [Block City Wars 2](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2023%20-%20Block%20City%20Wars%202)
-* [Combat Quest](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2020%20-%20Combat%20Quest)
+- [Block City Wars 2](Showcase_Work/2023%20-%20Block%20City%20Wars%202)
+- [Combat Quest](Showcase_Work/2020%20-%20Combat%20Quest)
 
 ### Desktop Applications
 
-* [SuperSCADA](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2019%20-%20SuperScada)
-* [KStudio](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2016%20-%20KStudio)
+- [SuperSCADA](Showcase_Work/2019%20-%20SuperScada)
+- [KStudio](Showcase_Work/2016%20-%20KStudio)
 
 ### Web Applications
 
-* [Cedar Clerk](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2026%20-%20Cedar%20Clerk)
-* [New Promotion](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2019%20-%20NewPromotion)
-* [KResource](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2018%20-%20KResouce)
+- [Cedar Clerk](Showcase_Work/2026%20-%20Cedar%20Clerk) (personal project)
+- [New Promotion](Showcase_Work/2019%20-%20NewPromotion)
+- [KResource](Showcase_Work/2018%20-%20KResource)
 
 ### Firmware
 
-* [USPD](https://github.com/martycow/vchudaev_resume/tree/main/Showcase_Work/2015%20-%20USPD)
+- [USPD](Showcase_Work/2015%20-%20USPD)
