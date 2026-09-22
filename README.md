@@ -36,7 +36,7 @@
 | Preferred location  | **Remote** or **On-site in Portland, OR** |
 | Relocation          | Open to relocation within the U.S.        |
 
-### Skills
+## Skills
 
 | Field              | Value                                                                     |
 | ------------------ | ------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@
 | Other              | Angular, WPF, Qt (familiar), Modbus/RS-232/RS-485, Git, CI/CD             |
 | Currently learning | Rust, Swift, DevOps                                                       |
 
-### Experience
+## Experience
 
 | Company                                                      | Role                           | Type               | Years     | Project                                                                                   | Note                                                  |
 |--------------------------------------------------------------|--------------------------------|--------------------|-----------|-------------------------------------------------------------------------------------------|-------------------------------------------------------|
@@ -61,7 +61,7 @@
 | **[ChillBase](https://chillbase.net/)**                      | Unity Gameplay Engineer        | Full-time, on-site | 2020–2022 | *[Combat Quest](https://apps.apple.com/ae/app/combat-quest-archer-hero-rpg/id1558423382)* | 1M+ installs, tripled monthly revenue                 |
 | **[Moscow Factory of Thermal Automatics](https://mzta.ru/)** | Software and Hardware Engineer | Full-time, on-site | 2015–2020 | *[SuperSCADA](https://www.mzta.ru/program/sd-superscada)*, *KResource*, *USPD*            | Unity-based SCADA, industrial devices, firmware       |
 
-### Education
+## Education
 
 Bachelor of Science in Information Technology
 
@@ -69,7 +69,7 @@ Bachelor of Science in Information Technology
 
 2012–2016
 
-### Languages
+## Languages
 
 | Language | Level  |
 | -------- | ------ |
