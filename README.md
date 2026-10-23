@@ -37,28 +37,31 @@
 
 ## Skills
 
-| Field              | Value                                                                     |
-| ------------------ | ------------------------------------------------------------------------- |
-| Core               | C#, Unity, SOLID, ECS                                                     |
-| Other languages    | C++, TypeScript, SQL                                                      |
-| Game engines       | Unity, Unreal Engine                                                      |
-| Gameplay           | Gameplay systems, abilities, behavior-tree AI, multiplayer, network sync  |
-| UI                 | UGUI, NGUI, adaptive and pixel-perfect UI                                 |
-| Live ops           | Unity IAP, offer systems, IronSource, AdMob, AppsFlyer, Firebase          |
-| Performance        | Unity Profiler, Xcode Memory Profiler, low-end device optimization        |
-| Platforms          | iOS, Android, PC                                                          |
-| Other              | Angular, WPF, Qt (familiar), Modbus/RS-232/RS-485, Git, CI/CD             |
-| Currently learning | Rust, Swift, DevOps                                                       |
+| Field              | Value                                                                              |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| Core               | C#, Unity, Zenject (DI), UniTask, Addressables, ECS                                |
+| Gameplay           | Core and meta gameplay, combat, abilities, behavior-tree AI, NPCs, customization   |
+| Multiplayer        | Photon, network synchronization, client-server architecture                        |
+| UI                 | UGUI, NGUI, adaptive and pixel-perfect UI                                          |
+| Tools              | Unity editor extensions, node-graph editors, designer tools                        |
+| Live ops           | Unity IAP, offer systems, IronSource, AdMob, AppsFlyer, Firebase, CI/CD            |
+| Performance        | Unity Profiler, Xcode Memory Profiler, low-end device optimization                 |
+| Backend and data   | ASP.NET Core, Entity Framework Core, SQL, stored procedures, data migration        |
+| Frontend, desktop  | Angular, TypeScript, WPF, Electron                                                 |
+| Platforms          | iOS, Android, PC                                                                   |
+| AI tooling         | Claude Code, Codex, Anthropic API                                                  |
 
 ## Experience
 
-| Company                                                      | Role                           | Type               | Years     | Project                                                                                   | Note                                                  |
-|--------------------------------------------------------------|--------------------------------|--------------------|-----------|-------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| **[Visionary Realms](https://www.visionaryrealms.com/)**     | Unity Gameplay Engineer        | Full-time, remote  | 2025–2026 | *[Pantheon: Rise of the Fallen](https://www.pantheonmmo.com/)*                            | Old-school MMORPG, spiritual successor to *EverQuest* |
-| **[Cubic Games](https://cubicgames.com/)**                   | Unity Gameplay Engineer        | Full-time, remote  | 2023–2024 | *[Block City Wars 2](https://blockcitywar.com/)*                                          | 50M+ installs                                         |
-| **[Ciprosoft](https://ciprosoft.com/)**                      | Lead Unity Gameplay Engineer   | Full-time, remote  | 2022–2023 | *Dragon Game*                                                                       | Built the prototype from scratch, led a team of four  |
-| **[ChillBase](https://chillbase.net/)**                      | Unity Gameplay Engineer        | Full-time, on-site | 2020–2022 | *[Combat Quest](https://apps.apple.com/ae/app/combat-quest-archer-hero-rpg/id1558423382)* | 1M+ installs, tripled monthly revenue                 |
-| **[Moscow Factory of Thermal Automatics](https://mzta.ru/)** | Software and Hardware Engineer | Full-time, on-site | 2015–2020 | *[SuperSCADA](https://www.mzta.ru/program/sd-superscada)*, *KResource*, *USPD*            | Unity-based SCADA, industrial devices, firmware       |
+| Company                                                      | Role                                                       | Type               | Years     | Project                                                                                                    | Note                                                         |
+|--------------------------------------------------------------|------------------------------------------------------------|--------------------|-----------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **[Cedar Clerk](https://github.com/martycow/CedarClerk)**    | Full-Stack Engineer (independent project)                  | Personal project   | 2026–     | *Cedar Clerk*                                                                                              | ASP.NET Core and Angular publishing platform for indie creators |
+| **[Visionary Realms](https://www.visionaryrealms.com/)**     | Unity Gameplay Engineer                                    | Full-time, remote  | 2025–2026 | *[Pantheon: Rise of the Fallen](https://store.steampowered.com/app/3107230/Pantheon_Rise_of_the_Fallen/)*  | PC MMORPG in Steam Early Access, spiritual successor to *EverQuest* |
+| *Relocation to the U.S.*                                     |                                                            |                    | 2024–2025 |                                                                                                            |                                                              |
+| **[Cubic Games](https://cubicgames.com/)**                   | Unity Gameplay Engineer                                    | Full-time, remote  | 2023–2024 | *[Block City Wars 2](https://play.google.com/store/apps/details?id=block.app.wars)*                        | 50M+ downloads                                               |
+| **[Ciprosoft](https://ciprosoft.com/)**                      | Lead Unity Engineer                                        | Full-time, remote  | 2022–2023 | *Dragon Game*, *[Beauty Tycoon](https://apps.apple.com/us/app/beauty-tycoon-hair-salon-game/id1642963161)* | Lead developer of the prototype; led four programmers on Beauty Tycoon |
+| **[ChillBase](https://chillbase.net/)** (formerly ChillGaming) | Unity Gameplay Engineer                                  | Full-time, on-site | 2020–2022 | *[Combat Quest](https://play.google.com/store/apps/details?id=com.chillgaming.combatquest)*                | 1M+ downloads, tripled monthly revenue                       |
+| **[MZTA (Moscow Factory of Thermal Automatics)](https://mzta.ru/)** | Firmware Engineer → Angular Developer → Unity Software Engineer | Full-time, on-site | 2015–2020 | *[SuperSCADA](https://www.mzta.ru/program/sd-superscada)*, *KResource*, *USPD*                   | Unity-based SCADA, web platform, firmware; part-time until 2016 |
 
 ## Education
 
