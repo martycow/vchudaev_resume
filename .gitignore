@@ -4,3 +4,10 @@ Cover_Letters
 _Private
 .DS_Store
 node_modules
+
+# Local AI workspace (not part of the public resume)
+AGENTS.md
+HANDOFF.md
+INBOX.md
+.claude/
+tools/
