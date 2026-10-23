@@ -1,4 +1,4 @@
-# Viacheslav Chudaev - Unity Gameplay and Software Engineer
+# Viacheslav (Slava) Chudaev - Unity Gameplay and Software Engineer
 
 ## Full Resume
 

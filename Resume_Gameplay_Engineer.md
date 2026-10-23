@@ -90,8 +90,8 @@ Firmware Engineer → Angular Developer → Unity Software Engineer  |  On-site
 
 **Unity Software Engineer (2018–2020)**  |  SuperSCADA, industrial SCADA suite built on Unity ([product page](https://www.mzta.ru/program/sd-superscada))
 
-* Owned core architecture; the prototype won a Skolkovo innovation grant.
-* Built an IDE-style dockable, adaptive UI with node-graph and code editors for industrial controller languages (IEC 61131-3).
+* Proposed Unity for a new multiplatform SCADA suite and built the prototype that won a Skolkovo innovation grant.
+* Built a dynamic IDE-style UI that Unity lacks out of the box: dockable, configurable panels, lists and hierarchies, plus graph and code editors for industrial controller languages (IEC 61131-3).
 
 **Angular Developer (2017–2018)**  |  Web platform for property managers and tenants
 
