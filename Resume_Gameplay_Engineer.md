@@ -1,4 +1,4 @@
-**Viacheslav Chudaev**
+**Viacheslav (Slava) Chudaev**
 
 Unity Gameplay Engineer
 

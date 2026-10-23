@@ -1,4 +1,4 @@
-**Viacheslav Chudaev**
+**Viacheslav (Slava) Chudaev**
 
 Software Engineer (C#, .NET)
 
