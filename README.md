@@ -2,9 +2,9 @@
 
 ## Full Resume
 
-- [PDF](Resume_2026_Senior_Unity_Gameplay_Engineer.pdf)
-- [DOCX](Resume_2026_Senior_Unity_Gameplay_Engineer.docx)
-- [Markdown](Resume_2026_Senior_Unity_Gameplay_Engineer.md)
+- [PDF](Resume_Gameplay_Engineer.pdf)
+- [DOCX](Resume_Gameplay_Engineer.docx)
+- [Markdown](Resume_Gameplay_Engineer.md)
 
 ## Brief
 
@@ -83,7 +83,7 @@ This section has screenshots and photos of my projects. Some photos show my dail
 ### PC Games
 
 - [Pantheon: Rise of the Fallen](Showcase/2025%20-%20Pantheon)
-- [Dragon Game](Showcase/2022%20-%20Dragons%20Of%20Krypto)
+- [Dragon Game](Showcase/2022%20-%20Dragon%20Game)
 
 ### Mobile Games
 

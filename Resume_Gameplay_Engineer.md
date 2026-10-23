@@ -49,8 +49,6 @@ Unity Gameplay Engineer  |  Remote
 * Owned multiplayer support and **network synchronization** for all delivered features.  
 * Created designer tools for configuring NPCs, districts, spawners and waypoints.
 
-**EXPERIENCE / CONTINUED**
-
 **Ciprosoft**   October 2022 – June 2023
 
 Lead Unity Gameplay Engineer  |  Remote
