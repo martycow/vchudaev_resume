@@ -1,10 +1,9 @@
-# Viacheslav Chudaev - Senior Unity Gameplay Engineer
+# Viacheslav Chudaev - Unity Gameplay and Software Engineer
 
 ## Full Resume
 
-- [PDF](Resume_Gameplay_Engineer.pdf)
-- [DOCX](Resume_Gameplay_Engineer.docx)
-- [Markdown](Resume_Gameplay_Engineer.md)
+- Unity Gameplay Engineer: [PDF](Resume_Gameplay_Engineer.pdf) · [DOCX](Resume_Gameplay_Engineer.docx) · [Markdown](Resume_Gameplay_Engineer.md)
+- Software Engineer (C#, .NET): [PDF](Resume_Software_Engineer.pdf) · [DOCX](Resume_Software_Engineer.docx) · [Markdown](Resume_Software_Engineer.md)
 
 ## Brief
 

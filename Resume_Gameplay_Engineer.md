@@ -1,28 +1,34 @@
 **Viacheslav Chudaev**
 
-Senior Unity Gameplay Engineer
+Unity Gameplay Engineer
 
-Portland, OR  ·  [contact@vchudaev.dev](mailto:contact@vchudaev.dev)  ·  [linkedin.com/in/vchudaev](https://www.linkedin.com/in/vchudaev/)
+Portland, OR  ·  [contact@vchudaev.dev](mailto:contact@vchudaev.dev)  ·  [linkedin.com/in/vchudaev](https://www.linkedin.com/in/vchudaev/)  ·  [github.com/martycow](https://github.com/martycow)
 
 Authorized to work in the U.S. without visa sponsorship.
 
 **SUMMARY**
 
-Unity gameplay engineer with **11 years of software development experience**. Builds gameplay systems, multiplayer features and designer tools for mobile and PC/MMO projects, from prototype to live operations. **Tripled monthly revenue** on a live title, successfully developed projects from scratch and led a four-developer team. Passionate about UI, gameplay systems and tools.
+Unity gameplay engineer with **10+ years of software development** and 7+ years in Unity. Built features for live mobile games with **50M+ and 1M+ downloads** and for a PC MMORPG in Steam Early Access. **Tripled monthly revenue** on a live title by reworking its offers system and led a team of four programmers. Strongest in gameplay systems, UI and designer tools.
 
 **TECHNICAL SKILLS**
 
-**Core**  C#, Unity, SOLID, ECS
+**Core**  C#, Unity, Zenject (DI), UniTask, Addressables, ECS
 
-**Gameplay**  Core & meta gameplay, abilities, UI, behavior-tree AI, NPCs, multiplayer, network sync, tools
+**Gameplay**  Core and meta gameplay, combat, abilities, behavior-tree AI, NPCs, character customization
 
-**Live operations**  Unity IAP, IronSource, AdMob, AppsFlyer, Firebase, CI/CD, iOS & Android releases
+**Multiplayer**  Photon, network synchronization, client-server architecture
 
-**Performance**  Unity Profiler, Xcode Memory Profiler, memory, frame-rate & UI optimization
+**UI**  UGUI, NGUI, adaptive and responsive layouts, pixel-perfect implementation
 
-**Data**  SQL, database design, stored procedures, client-server architecture, player-data migration
+**Tools**  Unity editor extensions (custom inspectors, scene gizmos), node-graph editors, designer tools
 
-**UI**  UGUI, NGUI, complex, adaptive and responsive interface design & implementation pixel perfect
+**Live operations**  Unity IAP, IronSource, AdMob, AppsFlyer, Firebase, remote config, CI/CD, iOS/Android releases
+
+**Performance**  Unity Profiler, Xcode Memory Profiler, memory, frame-rate and UI optimization
+
+**Data**  SQL, database design, stored procedures, player-data migration
+
+**AI tooling**  Claude Code, Codex, agent orchestration for development workflows
 
 **EXPERIENCE**
 
@@ -30,65 +36,70 @@ Unity gameplay engineer with **11 years of software development experience**. Bu
 
 Unity Gameplay Engineer  |  Remote
 
-**Pantheon: Rise of the Fallen**  |  3D High-fantasy MMORPG
+**Pantheon: Rise of the Fallen**  |  3D high-fantasy MMORPG, PC ([Steam Early Access](https://store.steampowered.com/app/3107230/Pantheon_Rise_of_the_Fallen/))
 
-* Owned **end-to-end development of the mail and market systems**: database schemas, stored procedures, network serialization and UI.  
-* Designed SQL schemas and executed a large-scale player-data migration across a shared MMO codebase.  
-* Refactored and tuned the open-world climbing system.  
-* Built new abilities, including graph-node logic and supporting runtime functionality.  
-* Fully refactored abilities loadout panel: added customization and increased usability.
+* Owned **end-to-end development of the mail and market systems**: database schemas, stored procedures, network serialization and UI.
+* Designed SQL schemas and executed a large-scale player-data migration across a shared MMO codebase.
+* Refactored and tuned open-world climbing (ladders, slopes, edge detection, hanging); fixed network physics and pathfinding issues.
+* Built new abilities, including graph-node logic and supporting runtime functionality.
+* Refactored the abilities loadout panel, adding customization and improving usability.
+
+**Relocation to the U.S.**    June 2024 – September 2025
 
 **Cubic Games**    June 2023 – June 2024
 
 Unity Gameplay Engineer  |  Remote
 
-**Block City Wars 2**  |  3D Open-world multiplayer mobile game
+**Block City Wars 2**  |  3D open-world multiplayer mobile shooter, 50M+ downloads ([Google Play](https://play.google.com/store/apps/details?id=block.app.wars))
 
-* Developed **behavior-tree NPC AI with ECS** for peaceful and hostile open-world characters.  
-* Built weapon and vehicle customization and upgrades, a character editor, and adaptive NGUI UI.  
-* Owned multiplayer support and **network synchronization** for all delivered features.  
-* Created designer tools for configuring NPCs, districts, spawners and waypoints.
+* Developed **behavior-tree NPC AI with ECS** for peaceful and hostile open-world characters.
+* Built weapon and vehicle customization and upgrades, a character editor, and adaptive NGUI UI.
+* Owned multiplayer support and **network synchronization (Photon)** for all delivered features.
+* Created designer tools (custom inspectors, scene gizmos) for configuring NPCs, districts, spawners and waypoints.
 
-**Ciprosoft**   October 2022 – June 2023
+**Ciprosoft**    October 2022 – June 2023
 
-Lead Unity Gameplay Engineer  |  Remote
+Lead Unity Engineer  |  Remote
 
 **Dragon Game**  |  2D RPG battler prototype
 
-* **Led a four-developer team**, owning planning, estimates, delivery and technical interviews.  
-* Owned prototype architecture and technical implementation, adapting to frequent design pivots.  
+* **Lead and primary developer** of a new prototype, occasionally joined by a second engineer; owned planning, estimates and delivery.
+* Owned prototype architecture and technical implementation, adapting to frequent design pivots.
 * Implemented combat, abilities, character customization, inventory, UI, VFX and SFX systems.
 
-**ChillBase**   June 2020 – October 2022
+**Beauty Tycoon**  |  Mobile hair-salon tycoon game ([App Store](https://apps.apple.com/us/app/beauty-tycoon-hair-salon-game/id1642963161))
 
-Unity Gameplay Engineer | In-Site
+* **Led a team of four programmers** on the live project, owning planning and coordination.
 
-**Combat Quest**  |  3D Mobile action RPG
+**ChillBase (formerly ChillGaming)**    June 2020 – October 2022
 
-* **Tripled monthly revenue** by reworking the in-game offers system.  
-* Built PvP gameplay, refined the ability system, and created VFX and SFX systems.  
-* **Reduced memory usage to restore support for older devices**; optimized graphics and UI.  
-* Implemented advertising, battle pass and daily tasks; reworked cross-store payment processing.  
-* Delivered meta-gameplay systems, including cutscenes, a global map and tutorials.  
-* Owned CI/CD and shipped iOS and Android releases.
+Unity Gameplay Engineer  |  On-site
 
-**Moscow Factory of Thermal Automatics**    May 2015 – June 2020
+**Combat Quest**  |  3D mobile action RPG, 1M+ downloads, 4.5+ rating ([Google Play](https://play.google.com/store/apps/details?id=com.chillgaming.combatquest))
 
-Software and Hardware Engineer | In-Site
+* **Tripled monthly revenue** by reworking the in-game offers system.
+* Built PvP gameplay, refined the ability system, and created VFX and SFX systems.
+* **Cut memory usage to 2 GB**, restoring support for older devices; optimized graphics and UI.
+* Implemented advertising, battle pass and daily tasks; reworked cross-store payment processing.
+* Delivered meta-gameplay systems, including cutscenes, a global map and tutorials.
+* Owned CI/CD, remote config and DLC; shipped iOS and Android releases through soft and worldwide launch.
 
-**SuperSCADA (2018–2020)**  |  Unity industrial application for PC and mobile
+**MZTA (Moscow Factory of Thermal Automatics)**    May 2015 – June 2020
 
-* The prototype won a Skolkovo grant.  
-* Owned core architecture.  
-* Built an IDE-style, dockable, adaptive UI.  
-* Responsible for graph and code editors for FBD, LD and ST languages.  
-* Tested and deployed across multiple target environments.
+Firmware Engineer → Angular Developer → Unity Software Engineer  |  On-site
 
-**Earlier work (2015–2018):**
+**Unity Software Engineer (2018–2020)**  |  SuperSCADA, industrial SCADA suite built on Unity ([product page](https://www.mzta.ru/program/sd-superscada))
 
-* Built platform for property management companies and tenants using Angular,  
-* Implemented new editor features to IDE applications using WPF.  
-* Developed controller firmware supporting RS232/RS485 and Modbus.
+* Owned core architecture; the prototype won a Skolkovo innovation grant.
+* Built an IDE-style dockable, adaptive UI with node-graph and code editors for industrial controller languages (IEC 61131-3).
+
+**Angular Developer (2017–2018)**  |  Web platform for property managers and tenants
+
+* Built meter-reading graphs, bill input, tenant chat and a forum.
+
+**Firmware Engineer (2015–2017)**  |  Hired part-time while at university, full-time from 2016
+
+* Wrote C# controller firmware (RS-232/RS-485, Modbus) and added editor features to a WPF IDE.
 
 **EDUCATION**
 

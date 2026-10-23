@@ -1,0 +1,14 @@
+{
+  "name": "resume-gen",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Generates PDF and DOCX resumes from Resume_<Role>.md with style presets",
+  "scripts": {
+    "gen": "node generate.mjs",
+    "check": "node generate.mjs --check"
+  },
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}

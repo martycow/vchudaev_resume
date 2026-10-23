@@ -1,0 +1,17 @@
+{
+  "name": "compact",
+  "description": "Plain black, small margins, maximum content per page",
+  "fontBody": "Arial",
+  "fontHeading": "Arial",
+  "fontSizePt": 9.5,
+  "nameSizePt": 18,
+  "headingSizePt": 10,
+  "colorText": "#000000",
+  "colorMuted": "#333333",
+  "colorAccent": "#000000",
+  "colorRule": "#000000",
+  "pageMarginIn": 0.5,
+  "lineHeight": 1.2,
+  "headingStyle": "rule",
+  "skillsLayout": "inline"
+}

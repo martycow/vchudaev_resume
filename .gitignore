@@ -1,3 +1,6 @@
 _Archive
 _Useful
 Cover_Letters
+_Private
+.DS_Store
+node_modules

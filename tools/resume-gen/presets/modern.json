@@ -1,0 +1,17 @@
+{
+  "name": "modern",
+  "description": "Sans-serif, teal accent, tighter spacing",
+  "fontBody": "Segoe UI",
+  "fontHeading": "Segoe UI",
+  "fontSizePt": 10,
+  "nameSizePt": 24,
+  "headingSizePt": 10.5,
+  "colorText": "#111827",
+  "colorMuted": "#6b7280",
+  "colorAccent": "#0f766e",
+  "colorRule": "#99f6e4",
+  "pageMarginIn": 0.55,
+  "lineHeight": 1.25,
+  "headingStyle": "caps-rule",
+  "skillsLayout": "inline"
+}
